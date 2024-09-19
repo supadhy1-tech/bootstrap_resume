@@ -180,7 +180,8 @@ abbr[title] {
 
 address {
   margin-bottom: 1rem;
-  font-style: Arial;
+  font-family: "Courier New", monospace;
+  font-style: italic;
   line-height: inherit;
 }
 
